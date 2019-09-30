@@ -1,0 +1,22 @@
+D:\Programacion\YT Cursos\App_Registros\App_Registros\bin\Debug\App_Registros.exe.config
+D:\Programacion\YT Cursos\App_Registros\App_Registros\obj\Debug\App_Registros.csprojResolveAssemblyReference.cache
+D:\Programacion\YT Cursos\App_Registros\App_Registros\obj\Debug\App_Registros.IU.FormClientes.resources
+D:\Programacion\YT Cursos\App_Registros\App_Registros\obj\Debug\App_Registros.IU.FormLibros.resources
+D:\Programacion\YT Cursos\App_Registros\App_Registros\obj\Debug\App_Registros.IU.FormPrincipal.resources
+D:\Programacion\YT Cursos\App_Registros\App_Registros\obj\Debug\App_Registros.Properties.Resources.resources
+D:\Programacion\YT Cursos\App_Registros\App_Registros\obj\Debug\App_Registros.csproj.GenerateResource.Cache
+D:\Programacion\YT Cursos\App_Registros\App_Registros\bin\Debug\App_Registros.exe
+D:\Programacion\YT Cursos\App_Registros\App_Registros\bin\Debug\App_Registros.pdb
+D:\Programacion\YT Cursos\App_Registros\App_Registros\obj\Debug\App_Registros.exe
+D:\Programacion\YT Cursos\App_Registros\App_Registros\obj\Debug\App_Registros.pdb
+C:\Users\RJ Code Advance\Downloads\App_Registros\App_Registros\bin\Debug\App_Registros.exe.config
+C:\Users\RJ Code Advance\Downloads\App_Registros\App_Registros\obj\Debug\App_Registros.exe
+C:\Users\RJ Code Advance\Downloads\App_Registros\App_Registros\obj\Debug\App_Registros.pdb
+C:\Users\RJ Code Advance\Downloads\App_Registros\App_Registros\bin\Debug\App_Registros.exe
+C:\Users\RJ Code Advance\Downloads\App_Registros\App_Registros\bin\Debug\App_Registros.pdb
+C:\Users\RJ Code Advance\Downloads\App_Registros\App_Registros\obj\Debug\App_Registros.csprojResolveAssemblyReference.cache
+C:\Users\RJ Code Advance\Downloads\App_Registros\App_Registros\obj\Debug\App_Registros.IU.FormClientes.resources
+C:\Users\RJ Code Advance\Downloads\App_Registros\App_Registros\obj\Debug\App_Registros.IU.FormLibros.resources
+C:\Users\RJ Code Advance\Downloads\App_Registros\App_Registros\obj\Debug\App_Registros.IU.FormPrincipal.resources
+C:\Users\RJ Code Advance\Downloads\App_Registros\App_Registros\obj\Debug\App_Registros.Properties.Resources.resources
+C:\Users\RJ Code Advance\Downloads\App_Registros\App_Registros\obj\Debug\App_Registros.csproj.GenerateResource.Cache
